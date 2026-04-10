@@ -1,0 +1,41 @@
+{"timestamp": "2026-04-09T23:13:33.592710", "nivel": "INFO", "endpoint": "/docs", "ip": "127.0.0.1", "mensagem": "Acesso ao endpoint"}
+{"timestamp": "2026-04-09T23:13:34.271183", "nivel": "INFO", "endpoint": "/openapi.json", "ip": "127.0.0.1", "mensagem": "Acesso ao endpoint"}
+{"timestamp": "2026-04-09T23:44:58.355178", "nivel": "INFO", "endpoint": "/docs", "ip": "127.0.0.1", "mensagem": "Acesso ao endpoint"}
+{"timestamp": "2026-04-09T23:44:58.826065", "nivel": "INFO", "endpoint": "/openapi.json", "ip": "127.0.0.1", "mensagem": "Acesso ao endpoint"}
+{"timestamp": "2026-04-09T23:45:28.399514", "nivel": "INFO", "endpoint": "/criar", "ip": "127.0.0.1", "mensagem": "Acesso ao endpoint"}
+{"timestamp": "2026-04-09T23:45:28.413704", "nivel": "INFO", "endpoint": "/criar", "ip": "127.0.0.1", "mensagem": "Usuário 'meuteste' criado com sucesso"}
+{"timestamp": "2026-04-09T23:45:42.641240", "nivel": "INFO", "endpoint": "/metricas", "ip": "127.0.0.1", "mensagem": "Acesso ao endpoint"}
+{"timestamp": "2026-04-09T23:46:03.785374", "nivel": "INFO", "endpoint": "/health", "ip": "testclient", "mensagem": "Acesso ao endpoint"}
+{"timestamp": "2026-04-09T23:46:03.791377", "nivel": "INFO", "endpoint": "/login", "ip": "testclient", "mensagem": "Acesso ao endpoint"}
+{"timestamp": "2026-04-09T23:46:03.795404", "nivel": "WARNING", "endpoint": "/login", "ip": "testclient", "mensagem": "Resposta com status HTTP 422"}
+{"timestamp": "2026-04-09T23:46:03.890399", "nivel": "INFO", "endpoint": "/login", "ip": "testclient", "mensagem": "Acesso ao endpoint"}
+{"timestamp": "2026-04-09T23:46:03.891124", "nivel": "WARNING", "endpoint": "/login", "ip": "testclient", "mensagem": "Resposta com status HTTP 422"}
+{"timestamp": "2026-04-09T23:46:03.896101", "nivel": "INFO", "endpoint": "/login", "ip": "testclient", "mensagem": "Acesso ao endpoint"}
+{"timestamp": "2026-04-09T23:46:03.896970", "nivel": "WARNING", "endpoint": "/login", "ip": "testclient", "mensagem": "Resposta com status HTTP 422"}
+{"timestamp": "2026-04-09T23:46:03.902851", "nivel": "INFO", "endpoint": "/health", "ip": "testclient", "mensagem": "Acesso ao endpoint"}
+{"timestamp": "2026-04-09T23:46:03.905560", "nivel": "INFO", "endpoint": "/login", "ip": "testclient", "mensagem": "Acesso ao endpoint"}
+{"timestamp": "2026-04-09T23:46:03.906200", "nivel": "WARNING", "endpoint": "/login", "ip": "testclient", "mensagem": "Resposta com status HTTP 422"}
+{"timestamp": "2026-04-09T23:46:03.908924", "nivel": "INFO", "endpoint": "/metricas", "ip": "testclient", "mensagem": "Acesso ao endpoint"}
+{"timestamp": "2026-04-09T23:52:57.378062+00:00", "nivel": "INFO", "endpoint": "/", "ip": "127.0.0.1", "mensagem": "Acesso ao endpoint"}
+{"timestamp": "2026-04-09T23:52:57.757655+00:00", "nivel": "INFO", "endpoint": "/favicon.ico", "ip": "127.0.0.1", "mensagem": "Acesso ao endpoint"}
+{"timestamp": "2026-04-09T23:52:57.758253+00:00", "nivel": "WARNING", "endpoint": "/favicon.ico", "ip": "127.0.0.1", "mensagem": "Resposta com status HTTP 404"}
+{"timestamp": "2026-04-09T23:53:02.076811+00:00", "nivel": "INFO", "endpoint": "/docs", "ip": "127.0.0.1", "mensagem": "Acesso ao endpoint"}
+{"timestamp": "2026-04-09T23:53:02.588187+00:00", "nivel": "INFO", "endpoint": "/openapi.json", "ip": "127.0.0.1", "mensagem": "Acesso ao endpoint"}
+{"timestamp": "2026-04-09T23:53:38.599280+00:00", "nivel": "INFO", "endpoint": "/criar", "ip": "127.0.0.1", "mensagem": "Acesso ao endpoint"}
+{"timestamp": "2026-04-09T23:53:38.601754+00:00", "nivel": "WARNING", "endpoint": "/criar", "ip": "127.0.0.1", "mensagem": "Tentativa de criação de usuário sem preencher usuário ou senha"}
+{"timestamp": "2026-04-09T23:53:38.602613+00:00", "nivel": "WARNING", "endpoint": "/criar", "ip": "127.0.0.1", "mensagem": "Resposta com status HTTP 400"}
+{"timestamp": "2026-04-09T23:53:51.590976+00:00", "nivel": "INFO", "endpoint": "/metricas", "ip": "127.0.0.1", "mensagem": "Acesso ao endpoint"}
+{"timestamp": "2026-04-09T23:54:53.656111+00:00", "nivel": "INFO", "endpoint": "/health", "ip": "testclient", "mensagem": "Acesso ao endpoint"}
+{"timestamp": "2026-04-09T23:54:53.660960+00:00", "nivel": "INFO", "endpoint": "/login", "ip": "testclient", "mensagem": "Acesso ao endpoint"}
+{"timestamp": "2026-04-09T23:54:53.662950+00:00", "nivel": "INFO", "endpoint": "/login", "ip": "testclient", "mensagem": "Autenticação bem-sucedida para o usuário 'admin'"}
+{"timestamp": "2026-04-09T23:54:53.666105+00:00", "nivel": "INFO", "endpoint": "/login", "ip": "testclient", "mensagem": "Acesso ao endpoint"}
+{"timestamp": "2026-04-09T23:54:53.668372+00:00", "nivel": "WARNING", "endpoint": "/login", "ip": "testclient", "mensagem": "Falha de autenticação para o usuário 'admin'"}
+{"timestamp": "2026-04-09T23:54:53.668781+00:00", "nivel": "WARNING", "endpoint": "/login", "ip": "testclient", "mensagem": "Resposta com status HTTP 401"}
+{"timestamp": "2026-04-09T23:54:53.671787+00:00", "nivel": "INFO", "endpoint": "/login", "ip": "testclient", "mensagem": "Acesso ao endpoint"}
+{"timestamp": "2026-04-09T23:54:53.672644+00:00", "nivel": "WARNING", "endpoint": "/login", "ip": "testclient", "mensagem": "Tentativa de login sem usuário ou senha"}
+{"timestamp": "2026-04-09T23:54:53.673093+00:00", "nivel": "WARNING", "endpoint": "/login", "ip": "testclient", "mensagem": "Resposta com status HTTP 400"}
+{"timestamp": "2026-04-09T23:54:53.676307+00:00", "nivel": "INFO", "endpoint": "/health", "ip": "testclient", "mensagem": "Acesso ao endpoint"}
+{"timestamp": "2026-04-09T23:54:53.679757+00:00", "nivel": "INFO", "endpoint": "/login", "ip": "testclient", "mensagem": "Acesso ao endpoint"}
+{"timestamp": "2026-04-09T23:54:53.681191+00:00", "nivel": "WARNING", "endpoint": "/login", "ip": "testclient", "mensagem": "Falha de autenticação para o usuário 'admin'"}
+{"timestamp": "2026-04-09T23:54:53.681556+00:00", "nivel": "WARNING", "endpoint": "/login", "ip": "testclient", "mensagem": "Resposta com status HTTP 401"}
+{"timestamp": "2026-04-09T23:54:53.684548+00:00", "nivel": "INFO", "endpoint": "/metricas", "ip": "testclient", "mensagem": "Acesso ao endpoint"}

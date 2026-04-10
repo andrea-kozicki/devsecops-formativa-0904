@@ -1,0 +1,7 @@
+__pycache__
+.pytest_cache
+.venv
+.git
+app.log
+usuarios_banco.db
+tests
